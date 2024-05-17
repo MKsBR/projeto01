@@ -1,4 +1,4 @@
-# projeto01
+# boas vindas
 ### Boas vindas ao meu perfil :blue_heart
 
 Meu nome é mathouso
@@ -9,8 +9,6 @@ Meu nome é mathouso
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+matheussantanajb@gmail.com.br
 
-@marcelopaludetto
-
-![descrição do GIF](link GIF do Tenor)
+![descrição do GIF](https://mir-s3-cdn-cf.behance.net/project_modules/hd/5eeea355389655.59822ff824b72.gif)
